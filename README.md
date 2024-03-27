@@ -9,3 +9,6 @@ https://video.bellarmine.edu/media/t/1_tn0r4rsi
 
 # Chemical Manufacturing Analysis
 https://video.bellarmine.edu/media/t/1_x2lzdvdn
+
+# Sakila Databse
+https://video.bellarmine.edu/media/t/1_bgo0b7wc
